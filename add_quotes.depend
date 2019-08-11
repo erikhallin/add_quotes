@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440522863 source:c:\erikprogram\add_quotes\main.cpp
+	<iostream>
+	<fstream>
+	<dirent.h>
+	<vector>
+
